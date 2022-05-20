@@ -1,0 +1,7 @@
+﻿  matchingGame.cpp
+D:\source\matchingGame\matchingGame\matchingGame.cpp(160,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\source\matchingGame\matchingGame\matchingGame.cpp(475,7): warning C4101: 'valid': unreferenced local variable
+D:\source\matchingGame\matchingGame\matchingGame.cpp(495,7): warning C4101: 'valid': unreferenced local variable
+D:\source\matchingGame\matchingGame\matchingGame.cpp(797,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\source\matchingGame\matchingGame\matchingGame.cpp(690,7): warning C4101: 'contro': unreferenced local variable
+  matchingGame.vcxproj -> D:\source\matchingGame\x64\Debug\matchingGame.exe
